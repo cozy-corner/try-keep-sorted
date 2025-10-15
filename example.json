@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    // keep-sorted start
+    "axios": "^1.0.0",
+    "express": "^4.18.0",
+    "lodash": "^4.17.21",
+    "react": "^18.0.0"
+    // keep-sorted end
+  }
+}

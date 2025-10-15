@@ -1,0 +1,6 @@
+# keep-sorted start
+zebra
+apple
+banana
+cherry
+# keep-sorted end

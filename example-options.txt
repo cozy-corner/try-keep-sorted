@@ -1,0 +1,31 @@
+# Case-insensitive sorting
+# keep-sorted start case=no
+apple
+Banana
+cherry
+Zebra
+# keep-sorted end
+
+# Numeric sorting
+# keep-sorted start numeric=yes
+file-1.txt
+file-2.txt
+file-10.txt
+file-100.txt
+# keep-sorted end
+
+# Reverse sorting
+# keep-sorted start reverse=yes
+apple
+banana
+cherry
+date
+# keep-sorted end
+
+# Prefix handling
+# keep-sorted start prefix_order=import,const,var
+import "fmt"
+import "os"
+const y = 2
+var x = 1
+# keep-sorted end
